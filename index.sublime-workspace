@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"red",
+				"indianred"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"repea",
+				"repeat-y"
+			],
+			[
+				"to",
+				"bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"rep",
+				"repeat-y"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"paddo",
+				"padding-bottom"
+			],
+			[
+				"fony",
+				"font-family"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"dar",
+				"darkcyan"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"ac",
+				"action"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projetos/#Projeto 4 - Cidade Notícias/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projetos/#Projeto 4 - Cidade Notícias/css/estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projetos/#Projeto 4 - Cidade Notícias/nova-legislacao.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projetos/#Projeto 4 - Cidade Notícias/brasil.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projetos/#Projeto 4 - Cidade Notícias/fotos.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Arredondamento com imagens/CSS/Anotações.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Arredondamento com imagens/arredondamento-imagens.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Formulários/CSS/Anotações.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Formulários/formularios2.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Estilizando Tabelas/CSS/estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Estilizando Tabelas/formularios.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Layout/CSS/Anotações.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Layout/layout.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação com abas/contato.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação com abas/sobre.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação com abas/servicos.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação com abas/noticias.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação com abas/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação Horizontal/CSS/Anotações.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação Horizontal/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação Horizontal/sobre.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação Horizontal/servicos.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação Horizontal/noticias.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação Horizontal/contato.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/CSS/Anotações.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação Vertical/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/contato.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/sobre.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Navegação Vertical.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/CSS/estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/heranca.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/seletores.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/CSS/._index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/CSS/._estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/Seletores.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediário e Avançado/estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediario/#Projeto 3- TecBlog/css/estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/CSS3 Intermediario/#Projeto 3- TecBlog/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/Projeto css3 Intermediario/links.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/Projeto css3 Intermediario/sobrepondo-elementos.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/Projeto css3 Intermediario/posicionamentos.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/Projeto css3 Intermediario/inline-block-inlineblock.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/Projeto css3 Intermediario/elementos-flutuantes-pratica.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/Projeto css3 Intermediario/elementos-flutuantes.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/Projeto css3 Intermediario/estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/Projeto css3 Intermediario/modelo-de-caixa.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/# Projeto 2 - Anna Bella/estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/# Projeto 2 - Anna Bella/contato.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/# Projeto 2 - Anna Bella/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/a.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/pagina1.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/pagina2.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/estilo.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/cor-imagens-fundo.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/estilos-textos.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/tamanhos-textos.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/fontes-cores.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/bordas.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/div-span.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/classes_ids.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3/inline.style.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/HTML/HTML 5 - projeto1 #UNES/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/HTML/HTML 5 - projeto1 #UNES/quem_somos.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/HTML/HTML 5 - projeto1 #UNES/contato.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Primeiro Projeto - Udemy/Caracteres especiais.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Primeiro Projeto - Udemy/Formulário de Login de usuário.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Primeiro Projeto - Udemy/Index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Primeiro Projeto - Udemy/contato.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Exercícios Rápidos/Exercício rápido, aula 15, seção 3 - HTML5.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Aula 16 Udemy",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Aula 16 Udemy.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Primeiro Projeto - Udemy/Aula 16 Udemy.html",
+		"/C/Users/ramon/Desktop/Testando o conhecimento = HTML5/Teste de conhecimento inicial HTML 5.html",
+		"/C/Users/ramon/Desktop/Testando o conhecimento = HTML5/Teste de conhecimento inicial HTML 5",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projeto Web/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projeto Aula/index.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projeto Aula/css/estilo-teste.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/CSS3 Recursos/Normalize.html",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Projeto Aula - Udemy/CSS/estilo-teste.css",
+		"/C/Users/ramon/Desktop/Udemy - Desebvolvimento Web completo/Primeiro Projeto - Udemy/projeto.html",
+		"/C/Users/ramon/Desktop/ProjetoWeb/Projeto Web/index.html",
+		"/C/Users/ramon/Desktop/Projeto Aula - Udemy/CSS/estilo-teste.css",
+		"/C/Users/ramon/Desktop/Projeto Aula - Udemy/index.html",
+		"/C/Users/ramon/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 132.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
